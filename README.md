@@ -1,6 +1,6 @@
 # DownTube
 
-# Baixador de Vídeos e Playlists do YouTube com Python
+# Download de Vídeos e Playlists do YouTube com Python
 
 Este projeto fornece um script Python para baixar vídeos e playlists do YouTube, utilizando as bibliotecas `pytubefix` e `ffmpeg`. Ele lida com resoluções progressivas e adaptativas, combinando streams de vídeo e áudio quando necessário, e inclui uma interface de linha de comando amigável.
 
