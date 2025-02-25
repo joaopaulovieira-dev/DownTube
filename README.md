@@ -42,7 +42,7 @@ A maneira mais fácil de configurar tudo, *especialmente no Windows*, é usar o 
 2.  **Execute o script de instalação:**
 
     ```bash
-    python install_dependencies.py
+    python requirements.py
     ```
 
     Siga as instruções na tela. O script tentará instalar o `ffmpeg` automaticamente usando o Chocolatey (um gerenciador de pacotes para Windows). Se isso falhar, ou se você preferir, ele fornecerá instruções detalhadas para a instalação manual do `ffmpeg`.
@@ -80,7 +80,7 @@ A maneira mais fácil de configurar tudo, *especialmente no Windows*, é usar o 
 1.  **Execute o script principal:**
 
     ```bash
-    python baixar_e_combinar.py  # Ou o nome que você deu ao script
+    python main.py  # Ou o nome que você deu ao script
     ```
 
 2.  **Siga as instruções:** O script irá perguntar:
