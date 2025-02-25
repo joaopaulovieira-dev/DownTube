@@ -96,7 +96,6 @@ A maneira mais fácil de configurar tudo, *especialmente no Windows*, é usar o 
 ### `main.py`
 
 ```python
-# Cole o código completo de baixar_e_combinar.py aqui
 import pytubefix as pytube
 import os
 from tqdm import tqdm
