@@ -93,7 +93,7 @@ A maneira mais fácil de configurar tudo, *especialmente no Windows*, é usar o 
 
 ## Código
 
-### `baixar_e_combinar.py`
+### `main.py`
 
 ```python
 # Cole o código completo de baixar_e_combinar.py aqui
